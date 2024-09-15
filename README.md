@@ -32,7 +32,8 @@ data problems, my goal is to make data work for you.
 Feel free to explore my projects and reach out if you'd like to connect or collaborate! I'm always open to learning new things and tackling exciting challenges.
 
 ---
-- 🌱 I’m currently learning **Gen AI**
+### 🌱 **I’m currently learning**
+- **Gen AI**
 
 
 <!---
