@@ -1,4 +1,4 @@
-# Hello, I'm Amit Upadhyay 👋
+                                                     # Hello, I'm Amit Upadhyay 👋
 
 Welcome to my Data Analyst portfolio! I am a passionate **Data Analyst** with expertise in deriving actionable insights from complex datasets to 
 drive strategic business decisions. With a strong background in **Python, SQL, Power BI, Advanced Excel, and Machine Learning**, 
