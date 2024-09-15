@@ -12,10 +12,10 @@ I specialize in turning raw data into meaningful visualizations and reports that
 
 ### 🌟 **Key Projects**
 - **Credit Card Transaction Analysis**: A Power BI project where I developed a two-page interactive dashboard that highlights customer transactions,
-- KPIs, and trends, providing insights into customer behavior and spending patterns.
+  KPIs, and trends, providing insights into customer behavior and spending patterns.
 - **HR Analytics Project**: This project focused on analyzing employee attrition. I built an interactive dashboard to explore key metrics such as
-- overall attrition rates, attrition by department, and employee demographics. The report offers valuable insights ,
--  helping HR teams make data-driven retention strategies.
+  overall attrition rates, attrition by department, and employee demographics. The report offers valuable insights ,
+  helping HR teams make data-driven retention strategies.
 
 
 ### 🛠 **Tech Stack**
@@ -32,7 +32,7 @@ data problems, my goal is to make data work for you.
 Feel free to explore my projects and reach out if you'd like to connect or collaborate! I'm always open to learning new things and tackling exciting challenges.
 
 ---
-- 🌱 I’m currently learning Gen AI
+- 🌱 I’m currently learning **Gen AI**
 
 
 <!---
